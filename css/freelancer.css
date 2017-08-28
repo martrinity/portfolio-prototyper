@@ -321,6 +321,18 @@ footer .footer-below {
   padding: 25px 0;
   background-color: #4e4154;
 }
+footer li{
+  list-style: none;
+}
+footer .contacto-link{
+  text-decoration: none;
+  font-size: 20px;
+  color: #fff;
+}
+.contacto-link:hover{
+  color: purple;
+}
+
 .btn-outline {
   color: white;
   font-size: 20px;
